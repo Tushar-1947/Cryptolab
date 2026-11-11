@@ -1,0 +1,4 @@
+# The library itself has NO runtime dependencies (standard library only).
+# These are needed only to run the test-suite (reference implementations for cross-checking):
+pytest>=7.4
+cryptography>=41
