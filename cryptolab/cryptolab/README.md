@@ -20,7 +20,7 @@ cross-checked with OpenSSL/`cryptography`/`hashlib`** – plus runnable demos of
 
 ## Quick start
 ```bash
-git clone https://github.com/<your-username>/cryptolab.git && cd cryptolab
+git clone https://github.com/<Tushar-1947>/cryptolab.git && cd cryptolab
 pip install -r requirements.txt          # only needed for the tests
 python -m cryptolab selftest             # known-answer tests
 pytest -q                                # 40 tests
